@@ -1,0 +1,36 @@
+
+/* About.css */
+
+.container-about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.about-content {
+  margin-top: 20px;
+}
+
+.about-text-about {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.additional-content-about {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.additional-content-about h2 {
+  color: #333;
+  font-size: 24px;
+}
+
+.additional-content-about p {
+  color: #666;
+  font-size: 16px;
+}
+
+
